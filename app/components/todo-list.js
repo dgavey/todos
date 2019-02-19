@@ -1,6 +1,6 @@
-import Ember from 'ember';
+import Component from '@ember/component';
 
-let TodoList = Ember.Component.extend({
+let TodoList = Component.extend({
 
 });
 
